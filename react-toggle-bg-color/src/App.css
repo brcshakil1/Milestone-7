@@ -1,0 +1,11 @@
+.background {
+  width: 100vw;
+  height: 100vh;
+  /* background: bisque; */
+
+  display: grid;
+  place-items: center;
+}
+img {
+  cursor: pointer;
+}
